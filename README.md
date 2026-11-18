@@ -10,7 +10,7 @@ Corta automaticamente os melhores momentos das lives (Twitch/Kick), escolhe os m
 4. Siga o **tutorial da tela Início**: ativar a licença, instalar componentes, colar a chave da IA, entrar nas contas, escolher os streamers e clicar em **Iniciar tudo**.
 
 ## Licença
-O Clipador precisa de uma **chave de licença**. Se você comprou, a chave foi enviada junto com o link deste download.
+O Clipador precisa de uma **chave de licença**, presa ao seu computador. Abra o app → aba **Licença** → copie o **ID deste computador** e mande pelo WhatsApp para receber sua chave.
 
-## Ajuda
-Fale com quem te vendeu o Clipador.
+## Comprar / suporte
+📲 **WhatsApp: [(31) 99065-4621](https://wa.me/5531990654621?text=Ol%C3%A1!%20Quero%20saber%20sobre%20o%20Clipador)**
