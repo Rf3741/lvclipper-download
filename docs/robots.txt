@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lvclipper.levaritech.com/sitemap.xml
